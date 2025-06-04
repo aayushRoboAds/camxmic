@@ -1,6 +1,6 @@
 # Lip movements controls windows microphone volume
 
-A simle app to 🔴MUTE and 🟢UNMUTE Windows microphone. This is one component of the avatar interaction which helps avoid noise =
+A simle app to 🔴MUTE and 🟢UNMUTE Windows microphone. This is one component of the avatar interaction which helps avoid noise detection by LLM. 
 
 ## Installation
 
